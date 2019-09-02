@@ -1,0 +1,17 @@
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Shutta_UnitTest.dll
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Shutta_UnitTest.pdb
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Shutta.exe
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Shutta.pdb
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Shutta.exe.config
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\obj\Debug\Shutta_UnitTest.csprojAssemblyReference.cache
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\obj\Debug\Shutta_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\obj\Debug\Shutta_UnitTest.csproj.CopyComplete
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\obj\Debug\Shutta_UnitTest.dll
+C:\Users\301-19\source\repos\Shutta\Shutta_UnitTest\obj\Debug\Shutta_UnitTest.pdb

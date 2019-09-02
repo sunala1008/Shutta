@@ -1,0 +1,7 @@
+C:\Users\301-19\source\repos\Shutta\Shutta\bin\Debug\Shutta.exe.config
+C:\Users\301-19\source\repos\Shutta\Shutta\bin\Debug\Shutta.exe
+C:\Users\301-19\source\repos\Shutta\Shutta\bin\Debug\Shutta.pdb
+C:\Users\301-19\source\repos\Shutta\Shutta\obj\Debug\Shutta.csproj.CoreCompileInputs.cache
+C:\Users\301-19\source\repos\Shutta\Shutta\obj\Debug\Shutta.exe
+C:\Users\301-19\source\repos\Shutta\Shutta\obj\Debug\Shutta.pdb
+C:\Users\301-19\source\repos\Shutta\Shutta\obj\Debug\Shutta.csprojAssemblyReference.cache
